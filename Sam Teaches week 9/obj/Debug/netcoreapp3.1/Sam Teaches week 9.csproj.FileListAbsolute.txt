@@ -1,0 +1,13 @@
+C:\Git\Sam-Teaches-Week9\Sam Teaches week 9\bin\Debug\netcoreapp3.1\Sam Teaches week 9.exe
+C:\Git\Sam-Teaches-Week9\Sam Teaches week 9\bin\Debug\netcoreapp3.1\Sam Teaches week 9.deps.json
+C:\Git\Sam-Teaches-Week9\Sam Teaches week 9\bin\Debug\netcoreapp3.1\Sam Teaches week 9.runtimeconfig.json
+C:\Git\Sam-Teaches-Week9\Sam Teaches week 9\bin\Debug\netcoreapp3.1\Sam Teaches week 9.runtimeconfig.dev.json
+C:\Git\Sam-Teaches-Week9\Sam Teaches week 9\bin\Debug\netcoreapp3.1\Sam Teaches week 9.dll
+C:\Git\Sam-Teaches-Week9\Sam Teaches week 9\bin\Debug\netcoreapp3.1\Sam Teaches week 9.pdb
+C:\Git\Sam-Teaches-Week9\Sam Teaches week 9\obj\Debug\netcoreapp3.1\Sam Teaches week 9.csprojAssemblyReference.cache
+C:\Git\Sam-Teaches-Week9\Sam Teaches week 9\obj\Debug\netcoreapp3.1\Sam Teaches week 9.AssemblyInfoInputs.cache
+C:\Git\Sam-Teaches-Week9\Sam Teaches week 9\obj\Debug\netcoreapp3.1\Sam Teaches week 9.AssemblyInfo.cs
+C:\Git\Sam-Teaches-Week9\Sam Teaches week 9\obj\Debug\netcoreapp3.1\Sam Teaches week 9.csproj.CoreCompileInputs.cache
+C:\Git\Sam-Teaches-Week9\Sam Teaches week 9\obj\Debug\netcoreapp3.1\Sam Teaches week 9.dll
+C:\Git\Sam-Teaches-Week9\Sam Teaches week 9\obj\Debug\netcoreapp3.1\Sam Teaches week 9.pdb
+C:\Git\Sam-Teaches-Week9\Sam Teaches week 9\obj\Debug\netcoreapp3.1\Sam Teaches week 9.genruntimeconfig.cache

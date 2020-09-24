@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sam Teaches week 9/1.0.0": {
+        "runtime": {
+          "Sam Teaches week 9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sam Teaches week 9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
