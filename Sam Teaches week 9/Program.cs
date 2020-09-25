@@ -321,9 +321,10 @@ namespace Sam_Teaches_week_9
                         else if (i == list.Count - 1)
                         {
                             Console.Write($"{list[i]}\n");
+                            //Console.Write($" -- ${Totals[i].ToString("0.00")}\n");
                         }
                     }
-                }                
+                }
             }
         }
         private static decimal TotalCost(decimal subTotal, decimal tax)
